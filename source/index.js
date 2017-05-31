@@ -2,4 +2,4 @@
 import './sass/style.scss';
 
 // JS
-import './js/a.js';
+import './js/App.js';
